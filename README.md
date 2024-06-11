@@ -1,6 +1,6 @@
-### creonovo_restaurant and README were auto created
+### Littlelemon-The_Full_Stack and README were auto created
 
 
 
 
-###### *We Rise by Lifting Others.*
+###### We Rise by Lifting Others.
